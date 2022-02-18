@@ -2,7 +2,7 @@
 A single page sample site built on next js
 
 
-## Installation
+### Installation
 Download project
 
 cd to project and npm install
